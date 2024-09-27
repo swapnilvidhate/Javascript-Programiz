@@ -1,3 +1,5 @@
+// Program to Print an Integer(Entered by the User)
+
 // getting input from user 
 let userInput = prompt("Enter Your Input Value Here")
 

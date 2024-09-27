@@ -1,3 +1,5 @@
+// Program to Compute Quotient and Remainder
+
 // Function to compute quotient and remainder
 function computeQuotientAndRemainder(dividend, divisor) {
 

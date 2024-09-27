@@ -1,3 +1,5 @@
+// Program to Add Two Integers
+
 // creating function to add two numbers 
 function addTwoNumbers(a, b) {
     // returning the addition

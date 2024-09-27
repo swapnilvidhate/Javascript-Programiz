@@ -1,3 +1,5 @@
+// Program to Multiply two Floating Point Numbers
+
 function multiplyTwoNumber(a, b) {
     return a * b;
 }
